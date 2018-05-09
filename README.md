@@ -1,7 +1,7 @@
 # ShapeShift-Skeleton for voBits integration
 
 To Run: </br>
-  git clone https://github.com/Shapeshift-Public/ShapeShift-Skeleton </br>
+  git clone https://github.com/voBits/ShapeShift.git </br>
   cd ShapeShift-Skeleton </br>
   npm install </br>
   bower install </br>
