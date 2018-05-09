@@ -1,4 +1,4 @@
-# ShapeShift-Skeleton
+# ShapeShift-Skeleton for voBits integration
 
 To Run: </br>
   git clone https://github.com/Shapeshift-Public/ShapeShift-Skeleton </br>
