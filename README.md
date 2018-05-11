@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/vobits/shapeshift/badge.svg?targetFile=package.json)](https://snyk.io/test/github/vobits/shapeshift?targetFile=package.json)
+`
 # ShapeShift-Skeleton for voBits integration
 
 To Run: </br>
